@@ -4,4 +4,4 @@
 
 https://itsuki712.github.io/Literacy/
 
-<a hreh="https://github.com/Itsuki712/Literacy/edit/main/link.html">リンク<a>
+<a href="https://github.com/Itsuki712/Literacy/edit/main/link.html">リンク<a>
